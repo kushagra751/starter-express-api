@@ -1,22 +1,21 @@
 {
-  "name": "starter-express-api",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "start": "node index.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/cyclic-software/starter-express-api.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/cyclic-software/starter-express-api/issues"
-  },
-  "homepage": "https://github.com/cyclic-software/starter-express-api#readme",
-  "dependencies": {
-    "express": "^4.18.2"
-  }
-}
+3    "name": "poll",
+4    "version": "1.0.0",
+5    "description": "",
+6    "scripts": {
+7        "build": "echo \"No build specified\" && exit 1",
+8        "test": "echo \"No test specified\" && exit 1",
+9        "start": "node index.js"
+10    },
+11    "repository": {
+12        "type": "git",
+13        "url": "git+https://github.com/kushagra751/poll.git"
+14    },
+15    "author": "",
+16    "license": "ISC",
+17    "bugs": {
+18        "url": "https://github.com/kushagra751/poll/issues"
+19    },
+20    "homepage": "https://github.com/kushagra751/poll#readme"
+21}
+22 
